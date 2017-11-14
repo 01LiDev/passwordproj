@@ -1,7 +1,8 @@
 $(document).ready(function() {
-    var cn = 4;
+    var cn = Math.floor(Math.random() * 10);
+    console.log(cn);
     $("#enter").click(function() {
-        var input = $("#apple").val()
+        var input = parseInt($("#apple").val());
         if (input < cn) {
             $("div").html("it's Higher")
         }

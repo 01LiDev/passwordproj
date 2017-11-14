@@ -1,0 +1,17 @@
+    #myObj { 
+        position: absolute;
+        width: 20%;
+        left: 800px;
+        top: 20px;
+    }
+    
+    body { 
+        background-color: black;
+    }    
+    #ground { 
+        position: absolute;
+        background-color: white;
+        width: 100%;
+        height: 20px;
+        top: 95%;
+    }    

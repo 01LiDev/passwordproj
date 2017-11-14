@@ -1,0 +1,31 @@
+body{
+    background-image: url(http://2.bp.blogspot.com/-Mdr4II0ccuE/UlUh22RembI/AAAAAAAAFQU/y8p0bCX13y8/s1600/holes+in+the+wall....png);
+    background-size: cover;
+    background-position: 0px 0px;
+}
+#startp{
+    position: absolute;
+    height: 25%;
+    width: 94%;
+    border: 25px solid black;
+    padding: 25px;
+}
+#image1{
+    top: 12%;
+    right: 50%;
+}
+#image2{
+    top: 12%;
+    right: 30%;
+}
+#image3{
+    top: 12%;
+    right: 75%;   
+}
+.human{
+    height: 35%;
+    width:auto;
+}
+.humanwrap{
+    position: absolute;
+}
